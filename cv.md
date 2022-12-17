@@ -13,7 +13,7 @@
 ## Briefly About Myself:
 I wanted to become an economist, but changed my mind and went to study programming because I spent most of my time at the computer. Now I'm studying JS. In my free time I do sports or play computer games.
 
-----------
+---------
 
 ## Skills and Proficiency:
 - HTML5, CSS3
